@@ -1,0 +1,247 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&display=swap');
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    width: 100%;
+    font-family: 'SignPainter-HouseScript.ttf';
+}
+section{
+    min-height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+.benner1{
+     background-image:url(unnamed\ \(1\).png) ;
+     height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.contant1{
+    width: 90%;
+    margin: 0 auto;
+}
+.leftpart{
+    float: left;
+    padding: 25px;
+    position: absolute;
+}
+.rightpart{
+    float: right;
+    position: relative;
+    padding: 25px;
+}
+.textpart{
+    float:left;
+    position: absolute;
+    top: 30%;
+    padding: 20px;
+}
+.hsize1{
+    font-size: 60px;
+    line-height: 60px;
+    color: #faf4ed;
+}
+.hsize2{
+    font-size: 44px;
+    line-height: 45px;
+    color: #f47e00;
+}
+.hsize3{
+    font-size: 44px;
+    line-height: 45px;
+    color: #faf4ed;
+}
+.benner2{
+    background-image:url(unnamed\ \(2\).png) ;
+     height: 550px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.contant2{
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+}
+.benner3{
+    height: 80%;
+
+}
+.leftpart1{
+    padding-top: 20px;
+}
+.rightpart1{
+    padding-top: 20px;
+}
+.columnlay1{
+    position: relative;
+    background-image: url(group-10.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay2{
+    position: relative;
+    background-image: url(group-12.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay3{
+    position: relative;
+    background-image: url(group-13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay4{
+    position: relative;
+    background-image: url(group-14.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay5{
+    position: relative;
+    background-image: url(group-15.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay6{
+    position: relative;
+    background-image: url(group-16.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay7{
+    position: relative;
+    background-image: url(group-17.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay8{
+    position: relative;
+    background-image: url(group-18.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+.columnlay9{
+    position: relative;
+    background-image: url(group-19.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 360px;
+}
+  .column1{
+      position:absolute;
+      font-size: 16px;
+      bottom: -1%;
+      left:69px;
+      text-align: center;
+
+  }
+@media (max-width: 575.98px) { 
+
+    .benner2{
+    background-image: none;
+    }
+    } 
+@media (max-width: 575.98px) { 
+
+  .benner1{
+     height: 770px;
+     }
+ } 
+ @media (max-width: 575.98px) { 
+
+    .columnlay1{
+       height: 300px;
+       width: 260px;
+    }
+    }
+    @media (max-width: 575.98px) { 
+
+        .columnlay2{
+           height: 300px;
+           width: 260px;
+        }
+        }
+    @media (max-width: 575.98px) { 
+
+       .columnlay3{
+           height: 300px;
+            width: 260px;
+          }
+         }
+   @media (max-width: 575.98px) { 
+
+      .columnlay4{
+         height: 300px;
+         width: 260px;
+       }
+       }
+    @media (max-width: 575.98px) { 
+
+    .columnlay5{
+       height: 300px;
+       width: 260px;
+    }
+    }
+    @media (max-width: 575.98px) { 
+
+        .columnlay6{
+           height: 300px;
+           width: 260px;
+      }
+     }
+     @media (max-width: 575.98px) { 
+
+        .columnlay7{
+           height: 300px;
+           width: 260px;
+        }
+        }
+
+   @media (max-width: 575.98px) { 
+
+     .columnlay8{
+        height: 300px;
+        width: 260px;
+      }
+        }
+        @media (max-width: 575.98px) { 
+
+            .columnlay9{
+               height: 300px;
+               width: 260px;
+             }
+               }
+.benner4{
+ height: 400px;
+ background-color: #fff9f2;
+            
+ }
+ .contant4{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }   
+  .image{
+      align-items: center;
+      display: block;
+      padding: 20px;
+  }       
+  .leftpart2{
+    padding-top: 20px;
+
+}
+.rightpart2{
+    padding-top: 20px;
+}       
